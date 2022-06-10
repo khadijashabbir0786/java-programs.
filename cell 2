@@ -1,0 +1,8 @@
+public class cell 2
+{
+public static void main(string args[])
+{
+fload num=2.5f;
+System.out.println(num);
+}
+}
