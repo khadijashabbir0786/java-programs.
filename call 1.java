@@ -1,4 +1,4 @@
-public class cell 1
+public class call 1
 {
 public static void main(String args[])
 {
